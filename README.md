@@ -30,7 +30,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
 **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Git](https://www.google.com/imgres?q=github&imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F74038190%2F212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif&imgrefurl=https%3A%2F%2Fgithub.com%2Freblox01&docid=vHlTw8lvr_6IKM&tbnid=NDCT_QajtBwUcM&vet=12ahUKEwi3-dD8sqyVAxVaVKQEHb3KFJ0QnPAOegQIMRAA..i&w=204&h=200&hcb=2&itg=1&ved=2ahUKEwi3-dD8sqyVAxVaVKQEHb3KFJ0QnPAOegQIMRAA)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
