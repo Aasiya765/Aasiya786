@@ -1,5 +1,5 @@
 # Aasiya786
-# Hi there 👋, I'm Aasiya Wagan
+#  I'm Aasiya Wagan
 
 ## 💻 Computer Science Student | web  Developer | Data Science | AI
 
