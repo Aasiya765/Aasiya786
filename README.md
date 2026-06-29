@@ -42,7 +42,7 @@
 - 🔍 **Fraud Detection System** — Meta-learning (MAML) for few-shot fraud adaptation combined with blockchain-based audit trails for mobile wallet transactions
 - 🎭 **Deepfake Detection System** — CNN+LSTM hybrid model trained on FaceForensics++, deployed via FastAPI + React
 - 🏫 **EduCore** — Multi-school ERP system with role-based dashboards (React 18, Node.js, MySQL)
-- 📄 **AI Resume Analyzer** — Resume feedback tool powered by the Claude API
+- 📄 **AI Resume Analyzer** — Resume feedback tool
 - 📊 **ML Projects Suite** — Churn prediction, credit risk scoring, house price prediction, sentiment analysis, and more
 
 ---
