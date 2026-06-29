@@ -1,7 +1,7 @@
 # Aasiya786
 # Hi there 👋, I'm Aasiya Wagan
 
-## 💻 Computer Science Student | Front-End Developer | Automation Enthusiast
+## 💻 Computer Science Student | web  Developer | Data Science | AI
 
 I'm a **Bachelor of Science in Computer Science (BSCS)** student from **Sukkur, Sindh, Pakistan**, passionate about building modern web applications, automating workflows, and solving real-world problems through technology.
 
