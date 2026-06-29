@@ -1,107 +1,128 @@
-# Aasiya786
-#  I'm Aasiya Wagan
+👋 Hi, I'm Aasiya Wagan
 
-## 💻 Computer Science Student | web  Developer | Data Science | AI
+AI, Data Science & Web Development Enthusiast
 
-I'm a **Bachelor of Science in Computer Science (BSCS)** student from **Sukkur, Sindh, Pakistan**, passionate about building modern web applications, automating workflows, and solving real-world problems through technology.
-
-* 🎓 BSCS Student at Begum Nusrat Bhutto Women University
-* 💼 Freelance Front-End Web Developer
-* 🤖 Passionate about AI, Automation & Process Improvement
-* 🌱 Currently learning Machine Learning, Blockchain & Advanced Python
-* 📫 **Email:** [waganaasiya03@gmail.com](mailto:waganaasiya03@gmail.com)
-* 💼 **LinkedIn:** linkedin.com/in/aasiyawagan
-* 🐙 **GitHub:** https://github.com/Aasiya786
+📍 Sukkur, Sindh, Pakistan
+📧 waganaasiya03@gmail.com
+📱 0315-3514113
+🔗 linkedin.com/in/aasiyawagan
+🌐 My Portfolio
 
 ---
 
-## 🚀 Tech Stack
+🚀 About Me
 
-### 💻 Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-### 🛠 Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge\&logo=n8n\&logoColor=white)
-![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge\&logo=airtable\&logoColor=white)
+Computer Science student with hands-on experience across Artificial Intelligence, Machine Learning, Data Science, and Front-End Web Development. Passionate about building predictive models, performing data analysis, and developing responsive web interfaces. Seeking opportunities to contribute across AI and web domains.
 
 ---
 
-## 🌟 Featured Projects
+💼 Work Experience
 
-* 🤖 **Automated Data Workflow**
+Front-End Web Developer | Freelance (2023 - Present)
 
-  * Built workflow automation using **n8n** and REST APIs.
+· Built responsive websites using HTML5, CSS3, JavaScript, and Bootstrap
+· Converted UI mockups to functional, accessible web pages
+· Used Git/GitHub for version control and collaboration
 
-* 🛡 **Fraud Detection System**
+Front-End Web Development Intern | CoreTech, Nawabshah
 
-  * Machine learning project for identifying fraudulent transactions using Python.
-
-* 🔐 **Blockchain-Based Security Component**
-
-  * Final Year Project focused on secure system architecture and data integrity.
-
-* 📄 **Resume Analyzer**
-
-  * AI-powered application providing resume feedback using AI APIs.
-
-* 🌐 **Personal Portfolio Website**
-
-  * Fully responsive website with optimized UI/UX.
-
-* 🎓 **Student Management System**
-
-  * Dynamic record management with JSON/CSV handling.
+· Built responsive pages and fixed UI bugs in a team environment
+· Improved web accessibility under real project deadlines
 
 ---
 
-## 📜 Certifications
+🎓 Education
 
-* 🏆 Generative AI Application Developer
-* 🏆 Google Data Analytics
-* 🏆 Google AI Essentials
-* 🏆 UX Design
-* 🏆 Python Development
-* 🏆 Java Programming
-* 🏆 Intro to Blockchain & Web3
+Begum Nusrat Bhutto Women University | Sukkur, Sindh
+Bachelor of Science in Computer Science (BSCS) | May 2023 - Present
 
 ---
 
-## 📊 GitHub Stats
+🤖 AI & Data Science Projects
 
-![Aasiya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aasiya786\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aasiya786\&layout=compact\&theme=tokyonight\&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Aasiya786\&theme=tokyonight\&hide_border=true)
-
----
-
-## 🌱 Currently Learning
-
-* Machine Learning
-* Workflow Automation
-* AI Agents
-* Blockchain
-* REST APIs
+Project Description Tech Stack
+Fraud Detection System Binary classification with Logistic Regression/ensemble methods; handled class imbalance with SMOTE Python, Scikit-learn, Pandas
+Machine Failure Prediction Predictive maintenance using Random Forest/XGBoost on sensor data Python, XGBoost, Pandas
+Credit Risk Prediction End-to-end credit scoring using ensemble models Python, Scikit-learn, Pandas
+Sentiment Analysis NLP Dashboard NLP pipeline classifying reviews with TF-IDF; visualized trends Python, NLTK, Matplotlib
+Recommendation System Collaborative filtering via matrix factorization Python, Pandas, Surprise
+House Price Prediction Random Forest Regression with EDA and GridSearchCV tuning Python, Scikit-learn
+Customer Churn Prediction ML classification model with preprocessing and feature selection Python, Scikit-learn, Pandas
+Heart Disease Prediction Logistic Regression model with preprocessing and normalization Python, Scikit-learn
+Salary Prediction Linear/Polynomial Regression models analyzing salary trends Python, Scikit-learn
 
 ---
 
-## 🤝 Let's Connect
+🌐 Web Development Projects
 
-📧 **Email:** [waganaasiya03@gmail.com](mailto:waganaasiya03@gmail.com)
+Resume Analyzer Application
 
-💼 **LinkedIn:** https://linkedin.com/in/aasiyawagan
+AI-powered resume analyzer built with React.js, integrated with Claude API for CV feedback.
+Tech: React.js, JavaScript
 
-🐙 **GitHub:** https://github.com/Aasiya786
+School Management ERP - EduCore
+
+Multi-school ERP system with 30+ database tables and role-based dashboards.
+Tech: React 18, Node.js, Express, MySQL
+
+Personal Portfolio Website
+
+Responsive portfolio with animations and mobile-first design.
+Tech: HTML5, CSS3, JavaScript, Bootstrap
+🔗 Live Demo
 
 ---
 
-⭐ *"Building technology that simplifies processes and creates meaningful impact."*
+🛠️ Technical Skills
+
+Languages
+
+Python SQL Java C C++
+
+ML & AI
+
+Logistic Regression Random Forest XGBoost SVM GNN XAI/SHAP Deep Learning
+
+Data Science
+
+Pandas NumPy Scikit-learn TensorFlow PyTorch EDA SMOTE GridSearchCV
+
+Web Development
+
+HTML5 CSS3 JavaScript React.js Bootstrap Node.js Express.js MySQL
+
+Tools
+
+Git GitHub VS Code Jupyter Google Colab n8n Streamlit
+
+---
+
+📜 Certifications
+
+· Generative AI Application Developer - PAKAngels, ICodeGuru & Aspire Pakistan
+· Google Data Analytics - Coursera (Jun 2024)
+· Google AI Essentials - Coursera
+· UX Design - Coursera (Oct 2024)
+· Python Development - Sukkur IBA
+· Java Programming - TDP Trainers
+· Intro to Blockchain & Web3 - Decentral Developers
+
+---
+
+📊 GitHub Stats
+
+https://github-readme-stats.vercel.app/api?username=Aasiya786&show_icons=true&theme=radical
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=Aasiya786&layout=compact&theme=radical
+
+---
+
+📫 Let's Connect!
+
+· 📧 Email: waganaasiya03@gmail.com
+· 🔗 LinkedIn: linkedin.com/in/aasiyawagan
+· 🌐 Portfolio: subtle-cucurucho-4720b2.netlify.app
+
+---
+
+⭐️ Feel free to explore my repositories and connect with me!
